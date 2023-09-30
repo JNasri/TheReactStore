@@ -1,0 +1,21 @@
+.custom-form .form-control {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  width: 70%;
+}
+
+.custom-form .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.navLink {
+  text-decoration: none;
+  padding: 0.7rem;
+  color: white; 
+}
+
+.navLink:hover {
+  color:cyan;
+}
+
